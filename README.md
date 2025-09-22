@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## License
-- Documentation & images: CC BY 4.0 (see LICENSE-DOCS)
+- Documentation & images: CC BY 4.0 (see LICENSE)
 - Sample code: MIT (see LICENSE-CODE)
