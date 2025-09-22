@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## License
+- Documentation & images: CC BY 4.0 (see LICENSE-DOCS)
+- Sample code: MIT (see LICENSE-CODE)
